@@ -1,5 +1,39 @@
 Massively by HTML5 UP
 html5up.net | @ajlkn
+
+Welcome to my portfolio!
+
+HOME: An Introduction to who I am and my professional background
+
+Projects: A showcase of my work, each with descriptions and links.
+
+About: Detailed information about my skills, experiences, and interests
+
+Contact: How to get in touch with me
+
+Chatbot: Dialog Flow chat bot to answer questions about my portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
